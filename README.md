@@ -5,7 +5,7 @@ This repository contains code for Procedural Content Generation via Reinforcemen
 **Clone the Repo**
 ```
 git clone https://github.com/saniyaismail/sudoku_board_gen.git
-cd sudoku-pcgrl/
+cd sudoku_board_gen/
 ```
 
 
