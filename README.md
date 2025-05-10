@@ -3,6 +3,10 @@
 This repository contains code for Procedural Content Generation via Reinforcement Learning (PCGRL) applied to Sudoku board generation.
 
 **Clone the Repo**
+```
+git clone https://github.com/saniyaismail/sudoku_board_gen.git
+cd sudoku-pcgrl/
+```
 
 
 
